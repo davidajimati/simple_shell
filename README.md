@@ -1,9 +1,5 @@
 # The Simple Shell Project
 
-**This is a simple Unix command line interpreter**
-![shell](/shell1.png)
-
-****
 ## Table of contents
  - **What is the shell?**
  - **About this project**
@@ -154,8 +150,7 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 No known Bugs.
 
 ## TEAM
-David Ajimati
-Adeleke Ogunsona
+David Ajimati, Adeleke Ogunsona
 
 
 ## AUTHOR DESCRIPTION
